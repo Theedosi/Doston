@@ -1,1 +1,35 @@
-hgsggcxghghcgxhg
+$ history
+    1  pwd
+    2  Functio
+    3  ~Function Key 11
+    4  pwd
+    5  ~ cd ~/Desktop
+    6  ~pwd
+    7  ~ pwd
+    8  pwd
+    9  ls
+   10  cd Desktop/
+   11  ls
+   12  cd codeschool/
+   13  git clone https://github.com/Theedosi/Doston.githttps://github.com/Theedosi/Doston.git
+   14  git clone https://github.com/Theedosi/Doston.git
+   15  git config --global user.name "Theedosi"
+   16  git config --global user.email "dostonsuyunov18@gmail.com"
+   17  git config --list
+   18  git status
+   19  git add 1.txt
+   20  ls
+   21  cd Doston/
+   22  ls
+   23  git add 1.txt
+   24  git commit -m "ABV"
+   25  git push
+   26  ls
+   27  git add 1.txt
+   28  git commit -m "ABV"
+   29  GIT PUSH
+   30  git commit -m "ABV1"
+   31  git add 1.txt
+   32  git commit -m "ABV"
+   33  git push
+   34  history
